@@ -1,2 +1,1 @@
-# CreditDefaultRisk
-Analysis of Credit Default Risk for Home Credit
+Practice Projects using Kaggle Datasets
